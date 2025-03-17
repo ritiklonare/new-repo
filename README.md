@@ -1,2 +1,2 @@
 # new-repo
-this is demo
+this is demo.
